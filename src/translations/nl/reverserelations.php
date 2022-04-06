@@ -3,6 +3,7 @@
 return [
     'Reverse Entry Relations' => 'Reverse Entry Relations',
     'Reverse Category Relations' => 'Reverse Category Relations',
+    'Reverse User Relations' => 'Reverse User Relations',
     'Target Field' => 'Doelveld',
     'Set the target field of this relation.' => 'Stel het doelveld van deze relatie in.',
     'Read-only' => 'Alleen-lezen',

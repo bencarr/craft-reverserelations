@@ -3,6 +3,7 @@
 return [
     'Reverse Entry Relations' => 'Reverse Entry Relations',
     'Reverse Category Relations' => 'Reverse Category Relations',
+    'Reverse User Relations' => 'Reverse User Relations',
     'Target Field' => 'Target Field',
     'Set the target field of this relation.' => 'Set the target field of this relation.',
     'Read-only' => 'Read-only',
